@@ -15,8 +15,8 @@ export const FutsalLineup = () => {
   const players: Player[] = [
     { 
       id: 1, 
-      name: "Sadaika Nursadig", 
-      nim: "202410370110398",
+      name: "Mario Maulana", 
+      nim: "202410370110399",
       position: { x: 50, y: 15 }, // Goalkeeper
       role: "Kiper" 
     },
@@ -29,8 +29,8 @@ export const FutsalLineup = () => {
     },
     { 
       id: 3, 
-      name: "Mario Maulana", 
-      nim: "202410370110399",
+      name: "Sadaika Nursadig", 
+      nim: "202410370110398",
       position: { x: 75, y: 40 }, // Right Back
       role: "Bek Kanan" 
     },
